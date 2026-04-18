@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../TestProject1/PhoneBookTests.Ledana.csproj" Id="3d451c1a-6dbc-4c88-b437-d347e9068f63" />
+  <Project Path="PhoneBook.Ledana.csproj" />
+</Solution>
